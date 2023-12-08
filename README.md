@@ -32,8 +32,9 @@
     <li>Скачиваем бэкап базы из репозитория.</li>
     <li>Запускаем SQL Managment Studio и делаем импорт скаченной базы.</li>
     <img src="SchoolShop/Image/ImportBasePart1.png" alt="AllCasePage">
+    <br></br>
     <img src="SchoolShop/Image/ImportBasePart2.png" alt="AllCasePage">
-    <li>Откываем скаченный проект через Visual Studio.</li>
+  <li>Откываем скаченный проект через Visual Studio.</li>
     <li>Изменяем пути до фотографий на свои.</li>
     <img src="SchoolShop/Image/ChangePathPhotos.png" alt="AllCasePage">
     <li>Удаляем старую строку подключения к БД.</li>
@@ -42,11 +43,17 @@
     <img src="SchoolShop/Image/DeleteOldModel.png" alt="AllCasePage">
     <li>Теперь создаём новую модель данных БД.</li>
     <img src="SchoolShop/Image/AddNewModelPart1.png" alt="AllCasePage">
+    <br></br>
     <img src="SchoolShop/Image/AddModelPart2.png" alt="AllCasePage">
+    <br></br>
     <img src="SchoolShop/Image/AddNewModelPart3.png" alt="AllCasePage">
+    <br></br>
     <img src="SchoolShop/Image/AddNewModelPart4.png" alt="AllCasePage">
+    <br></br>
     <img src="SchoolShop/Image/AddNewModelPart5.png" alt="AllCasePage">
+    <br></br>
     <img src="SchoolShop/Image/AddNewModelPart6.png" alt="AllCasePage">
+    <br></br>
     <img src="SchoolShop/Image/AddNewModelPart7.png" alt="AllCasePage">
     <li>Всё, теперь можно запускать приложение и пользоваться им.</li>
     <img src="SchoolShop/Image/WorkApp.png" alt="AllCasePage">
