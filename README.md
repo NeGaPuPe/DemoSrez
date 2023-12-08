@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT INFO -->
 <br />
 <div align="center">
   <h1>
@@ -50,5 +49,13 @@
     <img src="SchoolShop/Image/AddNewModelPart6.png" alt="AllCasePage">
     <img src="SchoolShop/Image/AddNewModelPart7.png" alt="AllCasePage">
     <li>Всё, теперь можно запускать приложение и пользоваться им.</li>
+    <img src="SchoolShop/Image/WorkApp.png" alt="AllCasePage">
 </ol>
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
+
+## Авторы
+
+ФИО: **Воробьёв Руслан Мехтиевич**.
+
+Группа: 1202.
 <p align="right">(<a href="#readme-top">Наверх</a>)</p>
